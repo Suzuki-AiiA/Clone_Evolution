@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a48f03bf8b25d4965ab83a43af799ab5, type: 3}
+  m_Name: Datas_Ad5
+  m_EditorClassIdentifier: 
+  sensutive: 0.005
+  playerSpeed: 3
+  playerAges: 320000007c0100009a010000c2010000b0040000
+  playerShootRate: 2.2
+  bulletLifeTime: 1.2
+  shootAngle: 5
+  hideUI: 1
+  hideUIDis: -1.2
+  sumCard:
+    hps: 060000000f000000
+    value: 070000000200000003000000
+  multCard:
+    hps: 0300000006000000
+    value: 020000000500000008000000
+  yearCard:
+    hps: 030000000600000008000000
+    value: 320000002c0100004600000050000000
+  shotCard:
+    hps: 0400000064000000
+    value: 030000000300000003000000
+  damageGate:
+    startValue: 10
+    step: 1
+    multiplier: 100
+    max: 100
+  speedGate:
+    startValue: 10
+    step: 1
+    multiplier: 100
+    max: 100
+  rangeGate:
+    startValue: 30
+    step: 1
+    multiplier: 100
+    max: 300
+  yearGate:
+    startValue: 10
+    step: 1
+    multiplier: 100
+    max: 300
+  sizeGate:
+    startValue: 0
+    step: 1
+    multiplier: 100
+    max: 25
+  gates: 030000000300000003000000030000000100000003000000
